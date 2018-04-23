@@ -1,0 +1,21 @@
+{
+    "collections": [
+      {
+        "name": "new collection2",
+        "description": "",
+        "created": 1524460322976,
+        "updated": 1524460322976,
+        "id": "53b8cde6-30bf-49d2-8f83-51ec6a52642f"
+      }
+    ],
+    "icons": [
+      {
+        "name": "test",
+        "description": "",
+        "created": 1524460556820,
+        "updated": 1524460556820,
+        "id": "d2eac57b-108c-4ef8-a783-f80910c35cff"
+      }
+    ],
+    "users": []
+  }
